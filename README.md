@@ -1,276 +1,227 @@
-# 🚀 100 Days of AWS Solutions Architect Challenge
+<div align="center">
 
-## 📌 Challenge Overview
+# 🚀 100 Days of AWS — Solutions Architect Journey
 
-**Goal:** Pass AWS Solutions Architect Associate (SAA-C03) certification exam by February 2026
+<img src="https://img.shields.io/badge/AWS-SAA--C03-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SAA-C03"/>
+<img src="https://img.shields.io/badge/Score-823%2F1000-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Score 823/1000"/>
+<img src="https://img.shields.io/badge/Status-Certified%20✅-success?style=for-the-badge" alt="Certified"/>
+<img src="https://img.shields.io/badge/Duration-100%20Days-blue?style=for-the-badge" alt="100 Days"/>
 
-**Duration:** November 20, 2025 - February 27, 2026 (100 days)
+<br/>
 
-**Study Plan:** 13-week intensive preparation combining video courses, hands-on labs, and practice exams
+*A real, honest, 100-day study log — built for consistency, finished with a certificate.*
 
----
-
-## 🎯 Challenge Rules
-
-1. ✅ Study AWS for at least 2-3 hours daily (weekdays) and 4-5 hours on weekends
-2. ✅ Document daily progress with what I learned
-3. ✅ Complete hands-on labs in AWS Free Tier account
-4. ✅ Build at least one mini-project per week
-5. ✅ Share code, notes, and architecture diagrams
-6. ✅ Track practice exam scores weekly (starting Week 12)
+</div>
 
 ---
 
-## 📚 Resources I'm Using
+## 🏆 Certification Achievement
 
-| Resource | Type | Cost | Purpose |
-|----------|------|------|---------|
-| [Stephane Maarek's Ultimate AWS SAA-C03](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/) | Video Course | $15 | Primary learning resource (27 hours) |
-| [Tutorials Dojo Practice Exams](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/) | Practice Tests | $30 | 6 full practice exams (390+ questions) |
-| [AWS Skillbuilder](https://explore.skillbuilder.aws/) | Official AWS Training | Free | Hands-on labs and AWS courses |
-| AWS Free Tier Account | Hands-on Practice | Free | Real AWS environment practice |
-| AWS Whitepapers | Documentation | Free | Well-Architected Framework, Security, DR |
-| AWS Service FAQs | Documentation | Free | Deep dives into S3, EC2, VPC, RDS, etc. |
+<div align="center">
 
----
+<!-- Replace 'your-certificate.png' with your actual certificate filename once uploaded -->
+![AWS Certified Solutions Architect Associate Certificate](./Certs&badges/your-certificate.png)
 
-## 🗓️ Study Timeline
+<!-- Credly badge: replace with your actual badge image once uploaded -->
+<!-- ![AWS SAA Badge](./Certs&badges/your-badge.png) -->
 
-### Phase 1: Foundation (Weeks 1-2) - Days 1-14
-- **Topics:** IAM, S3, AWS Fundamentals
-- **Focus:** Account setup, IAM policies, S3 storage classes & encryption
-- **Deliverable:** Basic S3 + IAM architecture
+<br/>
 
-### Phase 2: Core Services (Weeks 3-8) - Days 15-56
-- **Topics:** EC2, VPC, Databases, Storage, Load Balancing, Serverless, IaC
-- **Focus:** Building production-ready architectures
-- **Deliverables:** 6 hands-on projects
+| 🎓 Certification | 📅 Exam Date | 🏅 Score | 📊 Pass Mark |
+|:---:|:---:|:---:|:---:|
+| **AWS Certified Solutions Architect – Associate (SAA-C03)** | **February 14, 2026** | **823 / 1000** | 720 / 1000 |
 
-### Phase 3: Advanced Topics (Weeks 9-11) - Days 57-77
-- **Topics:** Security, Disaster Recovery, Cost Optimization, Compliance
-- **Focus:** Well-Architected Framework, DR strategies
-- **Deliverables:** Security architecture, DR plan
+<br/>
 
-### Phase 4: Practice Exams (Weeks 12-13) - Days 78-91
-- **Topics:** Intensive practice with Tutorials Dojo exams
-- **Focus:** Score 85%+ on all practice exams
-- **Deliverables:** Exam readiness validated
+> 💬 *"From 50% on Day 4 to 823/1000 on exam day. 100 days of consistent effort."*
 
-### Phase 5: Final Prep & Exam (Days 92-100)
-- **Topics:** Review weak areas, take official AWS practice exam
-- **Focus:** Mental preparation, rest before exam
-- **Deliverable:** AWS SAA-C03 Certification 🎉
-
-
-<!-- ## 🏗️ Hands-On Projects
-
-### Week 2: Project 1 - S3 Secure Storage Architecture
-- **Description:** Multi-tier S3 architecture with versioning, encryption, lifecycle policies
-- **Tech:** S3, KMS, CloudFront, IAM
-- **Status:** ⬜ Not Started
-- **Link:** [Project Details](./projects/01-s3-secure-storage/)
-
-### Week 4: Project 2 - Multi-Tier VPC with High Availability
-- **Description:** Custom VPC with public/private subnets, NAT Gateway, Auto Scaling
-- **Tech:** VPC, EC2, Auto Scaling, Load Balancer
-- **Status:** ⬜ Not Started
-- **Link:** [Project Details](./projects/02-multi-tier-vpc/)
-
-### Week 5: Project 3 - Resilient Database Architecture
-- **Description:** RDS Multi-AZ with read replicas and DynamoDB integration
-- **Tech:** RDS, Aurora, DynamoDB, ElastiCache
-- **Status:** ⬜ Not Started
-- **Link:** [Project Details](./projects/03-database-architecture/)
-
-### Week 6: Project 4 - Global Content Distribution
-- **Description:** CloudFront CDN with Route 53 DNS and S3 origin
-- **Tech:** CloudFront, Route 53, S3, Certificate Manager
-- **Status:** ⬜ Not Started
-- **Link:** [Project Details](./projects/04-global-cdn/)
-
-### Week 7: Project 5 - Serverless Web Application
-- **Description:** Event-driven serverless architecture
-- **Tech:** Lambda, API Gateway, DynamoDB, S3, CloudWatch
-- **Status:** ⬜ Not Started
-- **Link:** [Project Details](./projects/05-serverless-app/)
-
-### Week 8: Project 6 - Infrastructure as Code
-- **Description:** Full stack deployment using CloudFormation templates
-- **Tech:** CloudFormation, AWS CLI, Parameter Store
-- **Status:** ⬜ Not Started
-- **Link:** [Project Details](./projects/06-cloudformation-stack/)
-
---- -->
-<!-- 
-## 📝 Daily Log Structure
-
-Each day I document:
-- **Date & Day Number**
-- **Time Spent:** X hours Y minutes
-- **Topics Covered:** What I studied
-- **Resources Used:** Videos, articles, documentation
-- **Key Learnings:** 3-5 bullet points
-- **Hands-On Practice:** What I built in AWS
-- **Challenges Faced:** Problems encountered
-- **Tomorrow's Plan:** What's next
-
-**Example:** [Day 1 Log](./logs/week-01/day-01.md)
-
---- -->
-
-## 📈 Practice Exam Scores
-- 24-11-25 Exam1-AWS Certified Cloud Practitioner Official Practice Question Set [day-04](Week1/day-04.md) Score-50%![Score](Certs&badges/image.png)
-<!-- 
-### Tutorials Dojo Practice Exams (Target: 85%+)
-
-| Exam | Date | Score | Status | Review Notes |
-|------|------|-------|--------|--------------|
-| Diagnostic Test | - | - | ⬜ Not Taken | |
-| Practice Exam 1 | - | - | ⬜ Not Taken | |
-| Practice Exam 2 | - | - | ⬜ Not Taken | |
-| Practice Exam 3 | - | - | ⬜ Not Taken | |
-| Practice Exam 4 | - | - | ⬜ Not Taken | |
-| Practice Exam 5 | - | - | ⬜ Not Taken | |
-| Practice Exam 6 | - | - | ⬜ Not Taken | |
-| AWS Official Practice | - | - | ⬜ Not Taken | |
-
-**Score Target Progression:**
-- Diagnostic: 60-65% (baseline)
-- Exam 1: 65-72%
-- Exam 2: 70-75%
-- Exam 3: 72-78%
-- Exam 4: 75-82%
-- Exam 5: 80-85%
-- Exam 6: 82-90%
-- AWS Official: 85%+ ✅ (Ready for real exam)
-
---- -->
-
-<!-- ## 🧠 Key Concepts Mastered
-
-### IAM (Identity & Access Management)
-- [ ] Users, Groups, Roles, Policies
-- [ ] MFA and Access Keys
-- [ ] IAM Best Practices
-- [ ] Cross-account access
-
-### S3 (Simple Storage Service)
-- [ ] Storage classes (Standard, IA, Glacier, Deep Archive)
-- [ ] Encryption (SSE-S3, SSE-KMS, SSE-C)
-- [ ] Versioning and MFA Delete
-- [ ] Lifecycle policies
-- [ ] Replication (same-region and cross-region)
-- [ ] Bucket policies vs IAM policies
-
-### EC2 (Elastic Compute Cloud)
-- [ ] Instance types and families
-- [ ] Pricing models (On-Demand, Reserved, Spot)
-- [ ] Security Groups vs NACLs
-- [ ] EBS volume types (gp2, gp3, io1, st1, sc1)
-- [ ] AMIs and launch templates
-- [ ] Instance store vs EBS
-
-### VPC (Virtual Private Cloud)
-- [ ] Subnets (public vs private)
-- [ ] Internet Gateway vs NAT Gateway
-- [ ] Route tables
-- [ ] VPC peering and endpoints
-- [ ] Security best practices
-
-### Databases
-- [ ] RDS Multi-AZ vs Read Replicas
-- [ ] Aurora features and global tables
-- [ ] DynamoDB capacity modes
-- [ ] ElastiCache (Redis vs Memcached)
-- [ ] Redshift for data warehousing
-
-### Monitoring & CDN
-- [ ] CloudWatch metrics, alarms, logs
-- [ ] CloudFront distributions
-- [ ] Route 53 routing policies
-- [ ] AWS X-Ray for tracing
-
-### Serverless
-- [ ] Lambda functions and triggers
-- [ ] API Gateway (REST and WebSocket)
-- [ ] SQS and SNS messaging
-- [ ] Step Functions
-
-### Infrastructure as Code
-- [ ] CloudFormation templates
-- [ ] CloudFormation stacks (create, update, delete)
-- [ ] Parameter Store and Secrets Manager
-- [ ] AWS Systems Manager
-
-### Security & DR
-- [ ] KMS for encryption
-- [ ] AWS Security Hub
-- [ ] Disaster Recovery strategies (backup/restore, pilot light, warm standby, active-active)
-- [ ] RTO and RPO concepts
-
-### Cost Optimization
-- [ ] Trusted Advisor
-- [ ] Cost Explorer
-- [ ] Reserved Instances vs Savings Plans
-- [ ] Right-sizing strategies
-
---- -->
-<!-- 
-## 🎓 Study Notes
-
-Organized notes by AWS service:
-- [IAM Notes](./notes/iam.md)
-- [S3 Notes](./notes/s3.md)
-- [EC2 Notes](./notes/ec2.md)
-- [VPC Notes](./notes/vpc.md)
-- [Databases Notes](./notes/databases.md)
-- [Serverless Notes](./notes/serverless.md)
-- [Security Notes](./notes/security.md)
-
-[View All Notes](./notes/)
+</div>
 
 ---
 
-## 📐 Architecture Diagrams
+## 📖 My Honest Story
 
-Visual representations of AWS architectures I've built:
-- [S3 Secure Storage Architecture](./diagrams/s3-architecture.png)
-- [Multi-Tier VPC Design](./diagrams/vpc-architecture.png)
-- [Serverless Application Flow](./diagrams/serverless-architecture.png)
-- [DR Strategy Implementation](./diagrams/dr-architecture.png)
+I started this repo in **November 2025** with a clear goal: study daily, stay consistent, and earn the AWS Solutions Architect Associate certification in 100 days. For the first few weeks, I logged everything here — daily progress, notes, hands-on labs, and takeaways.
+
+Then my **laptop failed**.
+
+I lost my setup, my workflow, and my ability to push to GitHub regularly. I couldn't update the repo. But I didn't stop studying.
+
+I kept going **offline** — course videos on a borrowed device, practice exams on my phone, notes in a physical notebook. I stuck to the exact plan I had built from day one. The daily logs from Day 24 onward were retrospectively filled based on my study plan — not fabricated, but reconstructed from what I genuinely covered. I just couldn't commit them in real time.
+
+**On February 14, 2026 — Day 87 of the challenge — I sat the AWS SAA-C03 exam and passed with a score of 823/1000.** ✅
+
+This repo now stands as:
+- 📚 A **complete study roadmap** for anyone targeting AWS SAA-C03
+- 🗓️ A **daily log template** you can fork and follow for your own challenge
+- 💪 An honest account of what the journey looks like — including real setbacks
 
 ---
 
-## 🛠️ CloudFormation Templates
+## 📌 Challenge at a Glance
 
-Reusable IaC templates:
-- [VPC with Public/Private Subnets](./cloudformation/vpc-template.yaml)
-- [Auto Scaling Web Application](./cloudformation/autoscaling-template.yaml)
-- [RDS Multi-AZ Database](./cloudformation/rds-template.yaml)
-- [Serverless API Stack](./cloudformation/serverless-api.yaml)
+<div align="center">
 
---- -->
+| Detail | Info |
+|:-------|:-----|
+| 🎯 **Goal** | Pass AWS SAA-C03 (SAA-C03) |
+| 📅 **Start Date** | November 20, 2025 |
+| 🏁 **Exam Date** | **February 14, 2026** |
+| 📆 **Duration** | 100 Days of study |
+| 🏅 **Exam Score** | **823 / 1000** *(Pass mark: 720)* |
+| ⏱️ **Daily Study** | 2–3 hrs weekdays · 4–5 hrs weekends |
+| 🔥 **Status** | ✅ COMPLETED & CERTIFIED |
 
-## 💡 Tips & Tricks
+</div>
 
-### Study Strategies That Work
-1. **Cornell Note-Taking:** Structure notes with questions, details, and summaries
-2. **Hands-On First:** Build in AWS console before reading documentation
-3. **Spaced Repetition:** Review concepts on Day 1, 2, 7, and 14
-4. **Mistake Journal:** Document every wrong practice exam question
-5. **Architecture Thinking:** For every service, ask: "When would I use this?"
 ---
-## 📄 License
 
-This repository is for educational purposes. Feel free to use this structure for your own AWS certification journey!
+## 📚 Resources Used
+
+| Resource | Type | Cost |
+|:---------|:-----|:----:|
+| [Stephane Maarek's AWS SAA-C03 Course](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/) | 🎬 Video Course | ~$15 |
+| [Tutorials Dojo Practice Exams](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/) | 📝 Practice Tests | ~$30 |
+| [AWS Skillbuilder](https://explore.skillbuilder.aws/) | 🧪 Official Labs | Free |
+| AWS Free Tier Account | 🖥️ Hands-on Practice | Free |
+| AWS Whitepapers | 📄 Documentation | Free |
+| AWS Service FAQs | 🔍 Deep Dives | Free |
+
+---
+
+## 🗓️ 100-Day Study Plan
+
+```
+Phase 1 ▐██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▌ Foundation       Days 01–14
+Phase 2 ▐░░░████████████████████████████░░▌ Core Services    Days 15–56
+Phase 3 ▐░░░░░░░░░░░░░░░░░░░░░███████████░▌ Advanced Topics  Days 57–77
+Phase 4 ▐░░░░░░░░░░░░░░░░░░░░░░░░░░░█████░▌ Practice Exams   Days 78–91
+Phase 5 ▐░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██░▌ Final Prep       Days 92–100
+```
+
+### 🔵 Phase 1 — Foundation `Days 1–14`
+> IAM, S3, AWS Fundamentals, Well-Architected Framework
+- IAM policies, users, groups, roles, MFA, cross-account access
+- S3 storage classes, encryption (SSE-S3, SSE-KMS, SSE-C), versioning, lifecycle rules
+- AWS Well-Architected Framework — 6 pillars overview
+
+### 🟠 Phase 2 — Core Services `Days 15–56`
+> EC2, VPC, Databases, Load Balancing, Serverless, Containers, IaC
+- EC2 instance families, pricing (On-Demand, Reserved, Spot), Auto Scaling
+- VPC architecture — subnets, IGW, NAT, NACLs, Security Groups, Peering, PrivateLink
+- RDS Multi-AZ, Aurora, DynamoDB, ElastiCache (Redis vs Memcached)
+- ELB (ALB / NLB), CloudFront, Route 53 routing policies
+- Lambda, SQS, SNS, API Gateway, Step Functions, EventBridge
+- CloudFormation, CDK, Elastic Beanstalk, ECS, EKS, ECR
+
+### 🔴 Phase 3 — Advanced Topics `Days 57–77`
+> Security, Disaster Recovery, Cost Optimization
+- KMS, Secrets Manager, IAM permission boundaries, Cognito, SSO
+- CloudTrail, Config, GuardDuty, Macie, WAF, Shield, Security Hub
+- DR strategies — Backup/Restore, Pilot Light, Warm Standby, Active-Active
+- Cost Explorer, Trusted Advisor, Reserved Instances, Savings Plans
+
+### 🟣 Phase 4 — Practice Exams `Days 78–91`
+> Intensive exam preparation with Tutorials Dojo
+- 6 full 65-question practice exams
+- Deep review of wrong answers after every exam
+- AWS Official Practice Exam (final validation)
+
+### 🟢 Phase 5 — Final Prep & Exam `Days 92–100`
+> Final review, mental prep, exam day
+- Rapid service-by-service review of all domains
+- Light reading, early rest, no cramming on the last day
+- **February 14, 2026 — Exam taken. Score: 823/1000. Certified. ✅**
+
+---
+
+## 📁 Daily Study Logs
+
+> **Note:** Days 1–23 were pushed live as I studied. Days 24 onward were reconstructed after the fact due to my laptop failure — but they faithfully reflect my actual study curriculum day by day.
+
+| Week | Days | Focus Area |
+|:-----|:-----|:-----------|
+| [📂 Week 1](./Week1/) | Days 01–04 | AWS Fundamentals, IAM intro |
+| [📂 Week 2](./Week2/) | Days 05–06 | S3, CLI, IAM deep dive |
+| [📂 Week 3](./Week3/) | Days 07–13 | EC2, Auto Scaling |
+| [📂 Week 4](./Week4/) | Days 14–20 | VPC fundamentals |
+| [📂 Week 5](./Week5/) | Days 21–28 | VPC advanced, ELB |
+| [📂 Week 6](./Week6/) | Days 29–35 | RDS, Aurora, DynamoDB, ElastiCache |
+| [📂 Week 7](./Week7/) | Days 36–42 | S3 Advanced, CloudFront, Route 53 |
+| [📂 Week 8](./Week8/) | Days 43–49 | SQS, SNS, Lambda, API Gateway |
+| [📂 Week 9](./Week9/) | Days 50–56 | CloudFormation, CDK, ECS, EKS |
+| [📂 Week 10](./Week10/) | Days 57–63 | KMS, IAM Advanced, Security Hub |
+| [📂 Week 11](./Week11/) | Days 64–70 | GuardDuty, WAF, DR Strategies |
+| [📂 Week 12](./Week12/) | Days 71–77 | Cost Optimization, CloudWatch, X-Ray |
+| [📂 Week 13](./Week13/) | Days 78–84 | Practice Exams 1–3 |
+| [📂 Week 14](./Week14/) | Days 85–91 | Practice Exams 4–6 + AWS Official |
+| [📂 Week 15](./Week15/) | Days 92–100 | Final Review + 🎯 Exam Day (Feb 14) |
+
+---
+
+## 📈 Score Progression
+
+| Checkpoint | Score | Notes |
+|:-----------|:-----:|:------|
+| AWS CCP Practice Set — Day 4 | 50% | Baseline — just getting started |
+| Tutorials Dojo Exam 1 | — | *Add your score* |
+| Tutorials Dojo Exam 2 | — | *Add your score* |
+| Tutorials Dojo Exam 3 | — | *Add your score* |
+| Tutorials Dojo Exam 4 | — | *Add your score* |
+| Tutorials Dojo Exam 5 | — | *Add your score* |
+| Tutorials Dojo Exam 6 | — | *Add your score* |
+| AWS Official Practice Exam | — | *Add your score* |
+| **🎯 AWS SAA-C03 Actual Exam** | **823 / 1000** | **PASSED ✅ — Feb 14, 2026** |
+
+---
+
+## 💡 What Actually Worked
+
+1. **Study the "why", not just the "what"** — For every service, always ask: *when would I use this over the alternative?*
+2. **Tutorials Dojo explanations are the real lesson** — Read every wrong-answer explanation carefully
+3. **Hands-on before documentation** — Launch it in the console first, then read the docs
+4. **Scenario thinking** — Every AWS exam question is a story problem. Practice identifying the right service combination
+5. **Setbacks are part of it** — My laptop died mid-challenge. I kept going on a borrowed device
+6. **Consistency beats intensity** — A 2-hour day you actually do beats a 6-hour day you skip
+
+---
+
+## 🤝 Use This Repo for Your Own Journey
+
+Feel free to **fork this** and use the structure, daily log format, and study plan for your own certification challenge. Everything here is designed to be reused.
+
+If this helped you, drop a ⭐ — it genuinely means a lot.
 
 ---
 
 ## 🙏 Acknowledgments
 
-- Stephane Maarek for the amazing AWS course
-- Tutorials Dojo (Jon Bonso) for excellent practice exams
-- AWS for comprehensive documentation
-- Reddit r/AWSCertifications community for support
+- **Stephane Maarek** — The SAA-C03 course is phenomenal. Worth every cent.
+- **Tutorials Dojo (Jon Bonso)** — The best practice exams for AWS certs. Period.
+- **AWS Skillbuilder** — Underrated official resource with great free labs
+- **r/AWSCertifications** — Community that keeps you going when motivation dips
 
 ---
+
+## 📄 License
+
+For educational purposes. Free to fork, adapt, and use for your own AWS certification journey.
+
+---
+
+<div align="center">
+
+---
+
+*The laptop broke. The streak broke. The study didn't.*
+
+**🏅 AWS SAA-C03 | Score: 823/1000 | February 14, 2026**
+
+<img src="https://img.shields.io/badge/Start-Nov%2020%202025-lightgrey?style=flat-square"/>
+<img src="https://img.shields.io/badge/Exam-Feb%2014%202026-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Score-823%2F1000-brightgreen?style=flat-square"/>
+<img src="https://img.shields.io/badge/Result-PASS%20✅-success?style=flat-square"/>
+
+---
+
+</div>
