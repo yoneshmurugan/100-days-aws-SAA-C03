@@ -20,10 +20,10 @@
 <div align="center">
 
 <!-- Replace 'your-certificate.png' with your actual certificate filename once uploaded -->
-![AWS Certified Solutions Architect Associate Certificate](./Certs&badges/your-certificate.png)
+![AWS Certified Solutions Architect Associate Certificate](./Certs&badges/Cert.png)
 
 <!-- Credly badge: replace with your actual badge image once uploaded -->
-<!-- ![AWS SAA Badge](./Certs&badges/your-badge.png) -->
+![AWS SAA Mark](./Certs&badges/mark.png)
 
 <br/>
 
