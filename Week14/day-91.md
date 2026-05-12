@@ -1,53 +1,39 @@
-﻿# Day 91 - February 18, 2026
+﻿# Day 91 â€” February 18, 2026
 
-## Date: February 18, 2026
+## ðŸ’¡ Post-Certification â€” Lessons & Retrospective
+
 **Day Number:** 91 of 100
-**Phase:** Phase 4: Practice Exams & Weak Area Review
+**Date:** February 18, 2026
 
 ---
 
-## Topics Covered
+## What I Would Do Differently
 
-### AWS Official Practice Exam + comprehensive review
+If I were starting the 100-day challenge from scratch:
 
----
-
-## Time Spent Today
-**Total:** 3 hours
-
----
-
-## Key Learnings
-- Studied: AWS Official Practice Exam + comprehensive review
-- Reviewed AWS documentation and Stephane Maarek course material
-- Completed hands-on practice in AWS Free Tier account
-- Updated personal notes and reviewed flashcards
+1. **Start Tutorials Dojo earlier** â€” Begin practice exams from Week 6, not Week 11
+2. **Note wrong answers immediately** â€” Build a mistake journal from Day 1
+3. **Hands-on every day** â€” Even 15 minutes in the AWS console counts
+4. **Backup your setup** â€” My laptop failure set back my repo updates significantly
+5. **Don't skip the whitepapers** â€” Well-Architected Framework shows up constantly
 
 ---
 
-## Hands-On Practice
-- [ ] Completed AWS console exercises for today's topic
-- [ ] Reviewed related AWS official FAQs / docs
-- [ ] Practiced with scenario-based exam questions
+## What Worked Well
+
+- Stephane Maarek's course as the primary resource â€” comprehensive and clear
+- Tutorials Dojo practice exams â€” the explanations are worth more than the score
+- Daily logging (even informal) â€” kept me accountable
+- The 100-day structure â€” knowing the end date gave urgency
 
 ---
 
-## Resources Used
-- Stephane Maarek AWS SAA-C03 Course (Udemy)
-- AWS Official Documentation
-- Tutorials Dojo practice questions
-- AWS Whitepapers and Service FAQs
+## Advice for Anyone Starting This
+
+- The exam is not about memorizing services â€” it's about choosing the right one for the scenario
+- Consistent effort over months beats one-week cramming every time
+- Setbacks will happen. Keep going.
 
 ---
 
-## Challenges & Notes
-- Continued consistent study despite challenges
-- Building strong foundational knowledge toward exam success
-
----
-
-## Tomorrow's Plan
-- Day 92: Final Review - Compute (EC2, Lambda, ECS, EKS)
-
----
-*[100 Days of AWS Challenge](../README.md) | Day 91 of 100*
+*[â† Day 90](./day-90.md) | [â†’ Day 92](../Week15/day-92.md) | [100 Days of AWS](../README.md)*

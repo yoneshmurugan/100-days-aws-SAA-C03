@@ -1,53 +1,38 @@
-﻿# Day 93 - February 20, 2026
+﻿# Day 93 â€” February 20, 2026
 
-## Date: February 20, 2026
+## ðŸŒ Deep Dive â€” VPC & Networking (Post-Cert Review)
+
 **Day Number:** 93 of 100
-**Phase:** Phase 5: Final Prep & Exam Day
+**Date:** February 20, 2026
 
 ---
 
-## Topics Covered
+## Why Revisit Networking?
 
-### Final Review - Storage (S3, EBS, EFS, FSx, Storage Gateway)
-
----
-
-## Time Spent Today
-**Total:** 3 hours
+VPC and networking concepts are the backbone of AWS architecture.
+Even post-certification, reviewing these ensures the knowledge sticks for real-world use.
 
 ---
 
-## Key Learnings
-- Studied: Final Review - Storage (S3, EBS, EFS, FSx, Storage Gateway)
-- Reviewed AWS documentation and Stephane Maarek course material
-- Completed hands-on practice in AWS Free Tier account
-- Updated personal notes and reviewed flashcards
+## Key VPC Concepts Reviewed
+
+- **Subnets** â€” Public vs private, CIDR block planning
+- **Route Tables** â€” Controlling traffic flow within VPC
+- **Internet Gateway** â€” Enables public internet access for public subnets
+- **NAT Gateway** â€” Allows private subnet instances to reach internet (outbound only)
+- **VPC Peering** â€” Direct connectivity between two VPCs (non-transitive)
+- **Transit Gateway** â€” Hub-and-spoke connectivity for multiple VPCs
+- **VPC Endpoints** â€” Private access to AWS services without internet
+- **PrivateLink** â€” Expose services privately across VPCs
 
 ---
 
-## Hands-On Practice
-- [ ] Completed AWS console exercises for today's topic
-- [ ] Reviewed related AWS official FAQs / docs
-- [ ] Practiced with scenario-based exam questions
+## Exam Insight
+
+The most common trap: VPC peering is **non-transitive**.
+If VPC A peers with B, and B peers with C â€” A cannot reach C through B.
+Use Transit Gateway for transitive routing.
 
 ---
 
-## Resources Used
-- Stephane Maarek AWS SAA-C03 Course (Udemy)
-- AWS Official Documentation
-- Tutorials Dojo practice questions
-- AWS Whitepapers and Service FAQs
-
----
-
-## Challenges & Notes
-- Continued consistent study despite challenges
-- Building strong foundational knowledge toward exam success
-
----
-
-## Tomorrow's Plan
-- Day 94: Final Review - Networking (VPC, CloudFront, Route 53, ELB)
-
----
-*[100 Days of AWS Challenge](../README.md) | Day 93 of 100*
+*[â† Day 92](./day-92.md) | [â†’ Day 94](./day-94.md) | [100 Days of AWS](../README.md)*

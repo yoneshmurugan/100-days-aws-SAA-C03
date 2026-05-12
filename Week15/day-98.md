@@ -1,53 +1,44 @@
-﻿# Day 98 - February 25, 2026
+﻿# Day 98 â€” February 25, 2026
 
-## Date: February 25, 2026
+## ðŸ› ï¸ Post-Certification â€” Planning a Real AWS Project
+
 **Day Number:** 98 of 100
-**Phase:** Phase 5: Final Prep & Exam Day
+**Date:** February 25, 2026
 
 ---
 
-## Topics Covered
+## What I Did Today
 
-### Light review only - Relax, no heavy studying
-
----
-
-## Time Spent Today
-**Total:** 3 hours
+Started planning a real-world AWS project to apply everything I've learned.
+Certifications prove knowledge â€” projects prove skill.
 
 ---
 
-## Key Learnings
-- Studied: Light review only - Relax, no heavy studying
-- Reviewed AWS documentation and Stephane Maarek course material
-- Completed hands-on practice in AWS Free Tier account
-- Updated personal notes and reviewed flashcards
+## Project Idea: Serverless REST API
+
+A fully serverless, scalable REST API using AWS services:
+
+`
+Client â†’ API Gateway â†’ Lambda â†’ DynamoDB
+                    â†“
+              CloudWatch Logs
+                    â†“
+              X-Ray Tracing
+`
+
+**Services:** API Gateway, Lambda, DynamoDB, IAM, CloudWatch, X-Ray
+**IaC:** AWS SAM (Serverless Application Model)
+**Auth:** Cognito User Pool + Authorizer
 
 ---
 
-## Hands-On Practice
-- [ ] Completed AWS console exercises for today's topic
-- [ ] Reviewed related AWS official FAQs / docs
-- [ ] Practiced with scenario-based exam questions
+## Why This Project?
+
+- Covers 6 core SAA-C03 services in one architecture
+- Demonstrates serverless design patterns
+- Deployable with SAM CLI for reproducibility
+- Meaningful for a portfolio / GitHub showcase
 
 ---
 
-## Resources Used
-- Stephane Maarek AWS SAA-C03 Course (Udemy)
-- AWS Official Documentation
-- Tutorials Dojo practice questions
-- AWS Whitepapers and Service FAQs
-
----
-
-## Challenges & Notes
-- Continued consistent study despite challenges
-- Building strong foundational knowledge toward exam success
-
----
-
-## Tomorrow's Plan
-- Day 99: Exam Day Preparation - Quick notes review, early sleep
-
----
-*[100 Days of AWS Challenge](../README.md) | Day 98 of 100*
+*[â† Day 97](./day-97.md) | [â†’ Day 99](./day-99.md) | [100 Days of AWS](../README.md)*

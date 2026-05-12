@@ -1,53 +1,40 @@
-﻿# Day 97 - February 24, 2026
+﻿# Day 97 â€” February 24, 2026
 
-## Date: February 24, 2026
+## ðŸ—ï¸ Well-Architected Framework â€” Final Review
+
 **Day Number:** 97 of 100
-**Phase:** Phase 5: Final Prep & Exam Day
+**Date:** February 24, 2026
 
 ---
 
-## Topics Covered
+## The 6 Pillars
 
-### Final Review - Well-Architected, DR strategies, Cost Optimization
-
----
-
-## Time Spent Today
-**Total:** 3 hours
-
----
-
-## Key Learnings
-- Studied: Final Review - Well-Architected, DR strategies, Cost Optimization
-- Reviewed AWS documentation and Stephane Maarek course material
-- Completed hands-on practice in AWS Free Tier account
-- Updated personal notes and reviewed flashcards
+| Pillar | Core Focus |
+|--------|-----------|
+| **Operational Excellence** | Run & monitor systems, improve processes |
+| **Security** | Protect data, systems, and assets |
+| **Reliability** | Recover from failures, meet demand dynamically |
+| **Performance Efficiency** | Use resources efficiently as demand changes |
+| **Cost Optimization** | Avoid unnecessary costs |
+| **Sustainability** | Minimize environmental impact |
 
 ---
 
-## Hands-On Practice
-- [ ] Completed AWS console exercises for today's topic
-- [ ] Reviewed related AWS official FAQs / docs
-- [ ] Practiced with scenario-based exam questions
+## Key Design Principles
+
+- **Operational Excellence**: Infrastructure as code, frequent small reversible changes, anticipate failure
+- **Security**: Implement a strong identity foundation, enable traceability, apply security at all layers
+- **Reliability**: Test recovery procedures, scale horizontally, stop guessing capacity
+- **Performance Efficiency**: Go global in minutes, use serverless architecture, experiment more often
+- **Cost Optimization**: Adopt a consumption model, analyze and attribute expenditure
+- **Sustainability**: Understand your impact, maximize utilization, use managed services
 
 ---
 
-## Resources Used
-- Stephane Maarek AWS SAA-C03 Course (Udemy)
-- AWS Official Documentation
-- Tutorials Dojo practice questions
-- AWS Whitepapers and Service FAQs
+## AWS Well-Architected Tool
+
+AWS provides a free tool in the console that evaluates your workloads against the 6 pillars and gives specific improvement recommendations.
 
 ---
 
-## Challenges & Notes
-- Continued consistent study despite challenges
-- Building strong foundational knowledge toward exam success
-
----
-
-## Tomorrow's Plan
-- Day 98: Light review only - Relax, no heavy studying
-
----
-*[100 Days of AWS Challenge](../README.md) | Day 97 of 100*
+*[â† Day 96](./day-96.md) | [â†’ Day 98](./day-98.md) | [100 Days of AWS](../README.md)*

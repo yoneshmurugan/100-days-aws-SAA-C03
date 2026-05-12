@@ -1,53 +1,43 @@
-﻿# Day 90 - February 17, 2026
+﻿# Day 90 â€” February 17, 2026
 
-## Date: February 17, 2026
+## ðŸ” Post-Certification â€” Reviewing Weak Areas
+
 **Day Number:** 90 of 100
-**Phase:** Phase 4: Practice Exams & Weak Area Review
+**Date:** February 17, 2026
 
 ---
 
-## Topics Covered
+## What I Did Today
 
-### Practice Exam 6 - Review all wrong answers in depth
-
----
-
-## Time Spent Today
-**Total:** 3 hours
+Reviewed the score report from the exam to identify weak domains.
+Used this to understand where I should deepen knowledge for real-world use.
 
 ---
 
-## Key Learnings
-- Studied: Practice Exam 6 - Review all wrong answers in depth
-- Reviewed AWS documentation and Stephane Maarek course material
-- Completed hands-on practice in AWS Free Tier account
-- Updated personal notes and reviewed flashcards
+## AWS SAA-C03 Exam Domains
+
+| Domain | Weight | My Performance |
+|--------|--------|----------------|
+| Design Secure Architectures | 30% | Review notes below |
+| Design Resilient Architectures | 26% | Strong area |
+| Design High-Performing Architectures | 24% | Strong area |
+| Design Cost-Optimized Architectures | 20% | Good, minor gaps |
 
 ---
 
-## Hands-On Practice
-- [ ] Completed AWS console exercises for today's topic
-- [ ] Reviewed related AWS official FAQs / docs
-- [ ] Practiced with scenario-based exam questions
+## Key Takeaways
+
+- Security domain (30%) is the largest â€” worth investing more time here
+- Cost optimization scenarios can be tricky with subtle differences
+- Multi-region DR patterns need careful reading in exam questions
 
 ---
 
-## Resources Used
-- Stephane Maarek AWS SAA-C03 Course (Udemy)
-- AWS Official Documentation
-- Tutorials Dojo practice questions
-- AWS Whitepapers and Service FAQs
+## Plan Going Forward
+
+Understanding gaps isn't a failure â€” it's a map for continued learning.
+The certification opens doors; real expertise comes from building.
 
 ---
 
-## Challenges & Notes
-- Continued consistent study despite challenges
-- Building strong foundational knowledge toward exam success
-
----
-
-## Tomorrow's Plan
-- Day 91: AWS Official Practice Exam + comprehensive review
-
----
-*[100 Days of AWS Challenge](../README.md) | Day 90 of 100*
+*[â† Day 89](./day-89.md) | [â†’ Day 91](./day-91.md) | [100 Days of AWS](../README.md)*

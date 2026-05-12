@@ -1,53 +1,46 @@
-﻿# Day 96 - February 23, 2026
+﻿# Day 96 â€” February 23, 2026
 
-## Date: February 23, 2026
+## âš¡ Deep Dive â€” Serverless & Compute (Post-Cert Review)
+
 **Day Number:** 96 of 100
-**Phase:** Phase 5: Final Prep & Exam Day
+**Date:** February 23, 2026
 
 ---
 
-## Topics Covered
+## Serverless Services Summary
 
-### Final Review - Security and IAM (KMS, Shield, WAF, GuardDuty)
-
----
-
-## Time Spent Today
-**Total:** 3 hours
-
----
-
-## Key Learnings
-- Studied: Final Review - Security and IAM (KMS, Shield, WAF, GuardDuty)
-- Reviewed AWS documentation and Stephane Maarek course material
-- Completed hands-on practice in AWS Free Tier account
-- Updated personal notes and reviewed flashcards
+| Service | Purpose |
+|---------|---------|
+| **Lambda** | Run code without managing servers (event-driven) |
+| **API Gateway** | Build REST, HTTP, and WebSocket APIs |
+| **SQS** | Message queue â€” decouples producers and consumers |
+| **SNS** | Pub/Sub â€” fan-out notifications to multiple subscribers |
+| **EventBridge** | Event bus â€” route events between AWS services and SaaS apps |
+| **Step Functions** | Orchestrate multi-step workflows with state machines |
+| **Fargate** | Serverless containers (no EC2 management) |
 
 ---
 
-## Hands-On Practice
-- [ ] Completed AWS console exercises for today's topic
-- [ ] Reviewed related AWS official FAQs / docs
-- [ ] Practiced with scenario-based exam questions
+## Compute Options Comparison
+
+| Option | Use Case |
+|--------|----------|
+| **EC2** | Full control, persistent workloads |
+| **Lambda** | Event-driven, short-duration tasks (<15 min) |
+| **ECS on EC2** | Containerized apps with EC2 control |
+| **ECS on Fargate** | Serverless containers |
+| **EKS** | Kubernetes workloads on AWS |
+| **Elastic Beanstalk** | PaaS â€” deploy apps without managing infrastructure |
 
 ---
 
-## Resources Used
-- Stephane Maarek AWS SAA-C03 Course (Udemy)
-- AWS Official Documentation
-- Tutorials Dojo practice questions
-- AWS Whitepapers and Service FAQs
+## Lambda Limits to Remember
+
+- Max execution timeout: **15 minutes**
+- Max memory: **10 GB**
+- Max deployment package: **50 MB (zipped)** / 250 MB (unzipped)
+- Concurrency: default **1000 per region**
 
 ---
 
-## Challenges & Notes
-- Continued consistent study despite challenges
-- Building strong foundational knowledge toward exam success
-
----
-
-## Tomorrow's Plan
-- Day 97: Final Review - Well-Architected, DR strategies, Cost Optimization
-
----
-*[100 Days of AWS Challenge](../README.md) | Day 96 of 100*
+*[â† Day 95](./day-95.md) | [â†’ Day 97](./day-97.md) | [100 Days of AWS](../README.md)*

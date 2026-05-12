@@ -1,53 +1,36 @@
-﻿# Day 92 - February 19, 2026
+﻿# Day 92 â€” February 19, 2026
 
-## Date: February 19, 2026
+## ðŸ—ºï¸ Planning the Next Step
+
 **Day Number:** 92 of 100
-**Phase:** Phase 5: Final Prep & Exam Day
+**Date:** February 19, 2026
 
 ---
 
-## Topics Covered
+## What I Did Today
 
-### Final Review - Compute (EC2, Lambda, ECS, EKS)
-
----
-
-## Time Spent Today
-**Total:** 3 hours
+Researched the AWS certification roadmap to decide where to go next after SAA-C03.
 
 ---
 
-## Key Learnings
-- Studied: Final Review - Compute (EC2, Lambda, ECS, EKS)
-- Reviewed AWS documentation and Stephane Maarek course material
-- Completed hands-on practice in AWS Free Tier account
-- Updated personal notes and reviewed flashcards
+## AWS Certification Paths After SAA-C03
+
+| Certification | Level | Best For |
+|---------------|-------|----------|
+| AWS Developer Associate (DVA-C02) | Associate | Building & deploying apps on AWS |
+| AWS SysOps Administrator (SOA-C02) | Associate | Operations and monitoring |
+| AWS Solutions Architect Professional (SAP-C02) | Professional | Advanced architecture design |
+| AWS DevOps Engineer Professional (DOP-C02) | Professional | CI/CD and automation |
+| AWS Security Specialty (SCS-C02) | Specialty | Deep security expertise |
 
 ---
 
-## Hands-On Practice
-- [ ] Completed AWS console exercises for today's topic
-- [ ] Reviewed related AWS official FAQs / docs
-- [ ] Practiced with scenario-based exam questions
+## My Tentative Next Target
+
+**AWS Solutions Architect â€“ Professional (SAP-C02)**
+
+The SAA-C03 foundation is fresh. Building on it with the Professional level makes the most sense before the associate-level knowledge fades.
 
 ---
 
-## Resources Used
-- Stephane Maarek AWS SAA-C03 Course (Udemy)
-- AWS Official Documentation
-- Tutorials Dojo practice questions
-- AWS Whitepapers and Service FAQs
-
----
-
-## Challenges & Notes
-- Continued consistent study despite challenges
-- Building strong foundational knowledge toward exam success
-
----
-
-## Tomorrow's Plan
-- Day 93: Final Review - Storage (S3, EBS, EFS, FSx, Storage Gateway)
-
----
-*[100 Days of AWS Challenge](../README.md) | Day 92 of 100*
+*[â† Day 91](../Week14/day-91.md) | [â†’ Day 93](./day-93.md) | [100 Days of AWS](../README.md)*

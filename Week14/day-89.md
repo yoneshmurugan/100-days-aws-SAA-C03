@@ -1,53 +1,37 @@
-﻿# Day 89 - February 16, 2026
+﻿# Day 89 â€” February 16, 2026
 
-## Date: February 16, 2026
+## ðŸ“„ Post-Certification â€” Certificate & Badge
+
 **Day Number:** 89 of 100
-**Phase:** Phase 4: Practice Exams & Weak Area Review
+**Date:** February 16, 2026
 
 ---
 
-## Topics Covered
+## What I Did Today
 
-### Practice Exam 6 - Full Tutorials Dojo exam
-
----
-
-## Time Spent Today
-**Total:** 3 hours
-
----
-
-## Key Learnings
-- Studied: Practice Exam 6 - Full Tutorials Dojo exam
-- Reviewed AWS documentation and Stephane Maarek course material
-- Completed hands-on practice in AWS Free Tier account
-- Updated personal notes and reviewed flashcards
+- Downloaded the official AWS certificate PDF from AWS Certification portal
+- Accepted and published the Credly digital badge
+- Updated LinkedIn with the certification
+- Updated resume and professional profiles
+- Added certificate to this repository
 
 ---
 
-## Hands-On Practice
-- [ ] Completed AWS console exercises for today's topic
-- [ ] Reviewed related AWS official FAQs / docs
-- [ ] Practiced with scenario-based exam questions
+## AWS Certification Portal
+
+The AWS Certification portal at [aws.amazon.com/certification](https://aws.amazon.com/certification) provides:
+- Official certificate PDF download
+- Credly badge (shareable on LinkedIn, Twitter, etc.)
+- Exam history and score report
+- Benefits: exam discounts, access to AWS Certification Lounge at re:Invent
 
 ---
 
-## Resources Used
-- Stephane Maarek AWS SAA-C03 Course (Udemy)
-- AWS Official Documentation
-- Tutorials Dojo practice questions
-- AWS Whitepapers and Service FAQs
+## Notes
+
+The Credly badge is the digital proof of the certification.
+It contains metadata verifiable by anyone â€” employer, recruiter, or peer.
 
 ---
 
-## Challenges & Notes
-- Continued consistent study despite challenges
-- Building strong foundational knowledge toward exam success
-
----
-
-## Tomorrow's Plan
-- Day 90: Practice Exam 6 - Review all wrong answers in depth
-
----
-*[100 Days of AWS Challenge](../README.md) | Day 89 of 100*
+*[â† Day 88](./day-88.md) | [â†’ Day 90](./day-90.md) | [100 Days of AWS](../README.md)*
