@@ -33,7 +33,7 @@
 
 <br/>
 
-> 💬 *"From 50% on Day 4 to 823/1000 on exam day. 100 days of consistent effort."*
+> 💬 *"The setup failed. The plan didn't. AWS SAA-C03 — done"*
 
 </div>
 
