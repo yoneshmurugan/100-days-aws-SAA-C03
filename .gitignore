@@ -11,7 +11,7 @@ desktop.ini
 *.iml
 
 # Logs & temp
-*.log
+
 *.tmp
 *.bak
 *~
