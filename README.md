@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/AWS-SAA--C03-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SAA-C03"/>
 <img src="https://img.shields.io/badge/Score-823%2F1000-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Score 823/1000"/>
 <img src="https://img.shields.io/badge/Status-Certified%20✅-success?style=for-the-badge" alt="Certified"/>
-<img src="https://img.shields.io/badge/Duration-100%20Days-blue?style=for-the-badge" alt="100 Days"/>
+<img src="https://img.shields.io/badge/Duration-100%20Days-blue?style=for-the-badge" alt="100 Day"/>
 
 <br/>
 
